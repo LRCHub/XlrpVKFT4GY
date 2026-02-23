@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スメルズ・ライク・ティーン・スピリット",
+  "base_artist": "ニルヴァーナ",
+  "createdAt": "2026-02-23T04:53:44.113796Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/pl_01_Smells_Like_Teen_Spirit_Nirvana.txt"
+    }
+  ]
+}
